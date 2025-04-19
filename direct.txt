@@ -6,7 +6,7 @@ payload:
   - 'mbasecc.bcs.cmbchina.com'
   # 匹配域名后缀（交由 Proxy 代理服务器）
   - '+.lijiekang.top'
-  - 'lijiekang.top'
+  - 'flow.lijiekang.top'
 
   # 云闪付
   - '+.unionpay.com'
