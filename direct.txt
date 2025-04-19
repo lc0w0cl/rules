@@ -69,3 +69,4 @@ payload:
   - 'zhtj.cloud'
 
   - 'iminling.com'
+  - 'xxxxx.com'
