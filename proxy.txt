@@ -1,0 +1,7 @@
+payload:
+  # v2rayssr 的规则暂时注释
+  # - 'v2rayssr.com'
+
+  - '一元机场.com'       # 使用 punycode 时请注意编码
+  - 'registry.npmjs.org' # vless 转发
+  - 'docker.com'         # person-vless
