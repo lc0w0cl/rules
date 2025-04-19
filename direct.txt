@@ -5,68 +5,67 @@ payload:
 
   - 'mbasecc.bcs.cmbchina.com'
   # 匹配域名后缀（交由 Proxy 代理服务器）
-  - 'lijiekang.top'
+  - '+.lijiekang.top'
 
   # 云闪付
-  - 'unionpay.com'
-  - '95516.com'
+  - '+.unionpay.com'
+  - '+.95516.com'
 
   # 长沙轨道
-  - 'hncsmtr.com'
+  - '+.hncsmtr.com'
 
   # 长沙智慧交通（易停车）
-  - 'cszhjt.com'
-  - 'sciencewalk.com'
+  - '+.cszhjt.com'
+  - '+.sciencewalk.com'
 
   # 银行 — 招商银行
-  - 'cmbchina.com'
-  - 'cmbimg.com'
+  - '+.cmbchina.com'
+  - '+.cmbimg.com'
 
   # 我的世界论坛
-  - 'mc-bbs.vip'
+  - '+.mc-bbs.vip'
 
   # 滴滴出行
-  - 'didistatic.com'
+  - '+.didistatic.com'
 
   # 网宿
-  - 'qtlcdn.com'
+  - '+.qtlcdn.com'
 
   # 微信
-  - 'servicewechat.com'
-  - 'shujupie.com'
+  - '+.servicewechat.com'
+  - '+.shujupie.com'
 
   # 广州地铁
-  - 'gzmtr.com'
+  - '+.gzmtr.com'
 
   # Apple
-  - 'apple.com'
+  - '+.apple.com'
 
   # 链家
-  - 'lianjia.com'
-  - 'ljcdn.com'
+  - '+.lianjia.com'
+  - '+.ljcdn.com'
 
   # 如视，VR 看房的
-  - 'realsee.com'
+  - '+.realsee.com'
 
   # 湘辉
-  - 'hnxhgroup.com'
+  - '+.hnxhgroup.com'
 
   # 同程旅行
-  - '17usoft.com'
-  - 'www.bqrcy.com'
+  - '+.17usoft.com'
+  - '+.bqrcy.com'
 
-  - 'shopify.com'
-  - 'xn--1-q07a56pdss.com'
+  - '+.shopify.com'
+  - '+.xn--1-q07a56pdss.com'
 
-  - 'jumper-health.com'
+  - '+.jumper-health.com'
 
   # Steam 下载
   - 'client-update.fastly.steamstatic.com'
 
   # Steam 静态资源
-  - 'steamstatic.com'
-  - 'bigdailab.com'
-  - 'zhtj.cloud'
+  - '+.steamstatic.com'
+  - '+.bigdailab.com'
+  - '+.zhtj.cloud'
 
-  - 'iminling.com'
-  - 'xxxxx.com'
+  - '+.iminling.com'
