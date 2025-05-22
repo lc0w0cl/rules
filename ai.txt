@@ -1,0 +1,29 @@
+payload:
+
+  # 常用 AI 平台域名列表（适用于分流）
+  - 'gemini.google.com'      # Google Gemini
+  - 'aistudio.google.com'    # Google AI Studio
+  - 'bard.google.com'        # Gemini 旧域名
+  
+  - 'chat.openai.com'        # OpenAI ChatGPT
+  - 'api.openai.com'         # OpenAI API
+  - 'platform.openai.com'    # OpenAI 平台
+
+  - 'claude.ai'              # Anthropic Claude
+  - 'api.anthropic.com'      # Claude API
+
+  - 'grok.com'
+
+  - 'poe.com'                # Quora Poe
+  - 'api.poe.com'            # Poe API
+
+  - 'chat.bing.com'          # Microsoft Copilot (Bing Chat)
+  - 'copilot.microsoft.com'  # Microsoft Copilot 新入口
+
+  - 'huggingface.co'         # Hugging Face 网页
+  - 'api-inference.huggingface.co'  # Hugging Face 模型 API
+
+  - 'you.com'                # YouChat AI
+
+  - 'perplexity.ai'          # Perplexity AI
+  - 'api.perplexity.ai'      # Perplexity API
