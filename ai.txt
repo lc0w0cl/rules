@@ -12,7 +12,7 @@ payload:
   - 'claude.ai'              # Anthropic Claude
   - 'api.anthropic.com'      # Claude API
 
-  - 'grok.com'
+  - '+.grok.com'
 
   - 'poe.com'                # Quora Poe
   - 'api.poe.com'            # Poe API
