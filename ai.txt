@@ -10,7 +10,7 @@ payload:
   - 'platform.openai.com'    # OpenAI 平台
 
   - 'x.ai'
-
+  - '+.cursor.com'
   - 'claude.ai'              # Anthropic Claude
   - 'api.anthropic.com'      # Claude API
 
