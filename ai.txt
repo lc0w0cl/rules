@@ -13,6 +13,7 @@ payload:
   - '+.cursor.com'
   - 'claude.ai'              # Anthropic Claude
   - 'api.anthropic.com'      # Claude API
+  - '+.claude.ai'
 
   - '+.grok.com'
 
