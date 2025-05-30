@@ -11,6 +11,7 @@ payload:
 
   - 'x.ai'
   - '+.cursor.com'
+  - '+.cursorr.sh'
   - 'claude.ai'              # Anthropic Claude
   - 'api.anthropic.com'      # Claude API
   - '+.claude.ai'
