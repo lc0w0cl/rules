@@ -69,3 +69,6 @@ payload:
   - '+.zhtj.cloud'
 
   - '+.iminling.com'
+
+  - '+.cursor.com'
+  - '+.cursor.sh'
