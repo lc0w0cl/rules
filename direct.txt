@@ -70,5 +70,5 @@ payload:
 
   - '+.iminling.com'
 
-  - '+.cursor.com'
-  - '+.cursor.sh'
+  #- '+.cursor.com'
+  #- '+.cursor.sh'
