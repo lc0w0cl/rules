@@ -31,3 +31,5 @@ payload:
 
   - 'perplexity.ai'          # Perplexity AI
   - 'api.perplexity.ai'      # Perplexity API
+
+  - '+.augmentcode.com'      # Perplexity API
